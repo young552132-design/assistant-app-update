@@ -1,6 +1,6 @@
 {
- "version": "0.2.28",
- "notes": "1. 修复地址「设为默认」点击无效\n2. 地址行显示定位选中的小区/街道名\n3. 购物车与我的页地址信息统一显示",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.28/app-resources-0.2.28.zip",
+ "version": "0.2.29",
+ "notes": "1. 地址列表新增「删除」按钮（二次确认）\n2. 修复设为默认点击无效\n3. 地址行显示定位小区名",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.29/app-resources-0.2.29.zip",
  "pub_date": "2026-11-23"
 }
