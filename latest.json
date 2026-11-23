@@ -1,6 +1,6 @@
 {
- "version": "0.2.29",
- "notes": "1. 地址列表新增「删除」按钮（二次确认）\n2. 修复设为默认点击无效\n3. 地址行显示定位小区名",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.29/app-resources-0.2.29.zip",
+ "version": "0.2.30",
+ "notes": "1. 更新源改为国内镜像优先，修复部分网络无法检查更新（read ECONNRESET）\n2. 每个源自动重试，更新包下载同样走镜像\n3. 地址删除按钮 / 设为默认修复 / 小区名显示",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.30/app-resources-0.2.30.zip",
  "pub_date": "2026-11-23"
 }
