@@ -1,6 +1,6 @@
 {
- "version": "0.2.26",
- "notes": "1. 修复在线更新检查（之前会提示「更新信息格式无效」）\n2. 支付密码发码：60 秒冷却期给出明确提示",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.26/app-resources-0.2.26.zip",
+ "version": "0.2.27",
+ "notes": "1. 修复在线更新检查失败（「更新信息格式无效」）\n2. 更新源绕过 CDN 缓存，发版后立即生效\n3. 支付密码发码 60 秒冷却提示",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.27/app-resources-0.2.27.zip",
  "pub_date": "2026-11-23"
 }
