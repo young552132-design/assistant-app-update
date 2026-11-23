@@ -1,6 +1,6 @@
 {
- "version": "0.2.25",
- "notes": "1. 支付密码发码：60秒冷却期静默拒绝时给出明确提示\n2. 支付密码支持未绑定购物卡的账号\n3. 邀请活动适配本期任务",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.25/app-resources-0.2.25.zip",
+ "version": "0.2.26",
+ "notes": "1. 修复在线更新检查（之前会提示「更新信息格式无效」）\n2. 支付密码发码：60 秒冷却期给出明确提示",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.26/app-resources-0.2.26.zip",
  "pub_date": "2026-11-23"
 }
