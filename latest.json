@@ -1,6 +1,6 @@
 {
- "version": "0.2.30",
- "notes": "1. 更新源改为国内镜像优先，修复部分网络无法检查更新（read ECONNRESET）\n2. 每个源自动重试，更新包下载同样走镜像\n3. 地址删除按钮 / 设为默认修复 / 小区名显示",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.30/app-resources-0.2.30.zip",
- "pub_date": "2026-11-23"
+ "version": "0.2.31",
+ "notes": "1. 购物卡绑定接口修正（卡号明文 + positioner，修复绑定不上）\n2. 卡密加密多方案自适配\n3. 地址删除 / 设为默认 / 小区名显示\n4. 更新源国内镜像",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.31/app-resources-0.2.31.zip",
+ "pub_date": "2026-11-24"
 }
