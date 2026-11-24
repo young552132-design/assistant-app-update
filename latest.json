@@ -1,6 +1,6 @@
 {
- "version": "0.2.32",
- "notes": "1. 修复购物卡绑定报 Encryption failed\n2. 卡号明文提交（与 App 一致）\n3. 卡密多方案自适配",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.32/app-resources-0.2.32.zip",
+ "version": "0.2.33",
+ "notes": "1. 购物卡绑定彻底修复（逆向出 App 的卡密 AES 加密，实测通过）\n2. 已绑卡直接提示，不再浪费尝试次数\n3. 地址删除/设为默认/小区名显示，更新源国内镜像",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.33/app-resources-0.2.33.zip",
  "pub_date": "2026-11-24"
 }
