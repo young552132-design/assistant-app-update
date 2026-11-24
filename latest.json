@@ -1,6 +1,6 @@
 {
- "version": "0.2.33",
- "notes": "1. 购物卡绑定彻底修复（逆向出 App 的卡密 AES 加密，实测通过）\n2. 已绑卡直接提示，不再浪费尝试次数\n3. 地址删除/设为默认/小区名显示，更新源国内镜像",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.33/app-resources-0.2.33.zip",
+ "version": "0.2.46",
+ "notes": "1. 确认订单合并为单界面：地址 / 备注 / 商品明细 / 提交 全在一个弹窗里\n2. 送达时间独立成块（地址下方「送达时间 + 更改」），可选日期 + 15 分钟时段，约满置灰，选完就地重算金额\n3. 修复「确认提交订单」点不动（旧结算页残留包装层拦截了预下单/提交）\n4. 修复购物车取消勾选后又被自动勾上\n5. 账号栏打开即全部加载：多账号后端并发核验，7 个号 0.5 秒一次出全部\n6. 新用户省钱卡按平台 isNewMember 正确区分（新用户赠送 / 购物卡开通）",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.46/app-resources-0.2.46.zip",
  "pub_date": "2026-11-24"
 }
