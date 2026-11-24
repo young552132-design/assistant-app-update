@@ -1,6 +1,6 @@
 {
- "version": "0.2.48",
- "notes": "1. 订单列表新增「预计送达时间」灰条，与 App 订单页同步\n2. 待发货订单可改送达时间（点「修改 ›」选日期 + 时段）\n3. 订单页新增「待发货」筛选\n4. 每单只能改一次送达时间（平台限制）",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.48/app-resources-0.2.48.zip",
+ "version": "0.2.49",
+ "notes": "1. 已取消/已关闭的订单不再显示「预计送达时间」灰条（未关闭订单显示不变）",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.49/app-resources-0.2.49.zip",
  "pub_date": "2026-11-25"
 }
