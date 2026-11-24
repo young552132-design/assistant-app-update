@@ -1,6 +1,6 @@
 {
- "version": "0.2.47",
- "notes": "1. 修复「一直弹更新、更新完版本号不变」（更新包目录结构修正 + 更新器版本校验）\n2. 更新器解压后校验版本号，包不对即报错可重试\n3. 含 v0.2.46 全部内容：单界面确认订单 / 送达时间独立可选 / 购物车勾选修复 / 账号一次全部加载",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.47/app-resources-0.2.47.zip",
+ "version": "0.2.48",
+ "notes": "1. 订单列表新增「预计送达时间」灰条，与 App 订单页同步\n2. 待发货订单可改送达时间（点「修改 ›」选日期 + 时段）\n3. 订单页新增「待发货」筛选\n4. 每单只能改一次送达时间（平台限制）",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.48/app-resources-0.2.48.zip",
  "pub_date": "2026-11-25"
 }
