@@ -1,6 +1,6 @@
 {
- "version": "0.2.52",
- "notes": "新品试吃支持多期活动：自动从 CMS 读活动 id，今日+明日场次一起显示（不再漏明日场次）；每场单独「预约/抢券」，同一天只预约最近一场；倒计时按日期计算；修复一键预约提示「没有可预约的场次」",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.52/app-resources-0.2.52.zip",
+ "version": "0.2.53",
+ "notes": "新品试吃支持多期活动：自动读当前活动 id，今日+明日场次一起显示（不再漏明日场次）；每场单独「预约/抢券」；一键预约=所有未开抢场次全约上（同账号可同日多场预约，限1场只限领券），抢券机会最大化；倒计时按日期计算；修复一键预约误报「没有可预约的场次」",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.52/app-resources-0.2.53.zip",
  "pub_date": "2026-11-26"
 }
