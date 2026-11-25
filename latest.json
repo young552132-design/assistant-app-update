@@ -1,6 +1,6 @@
 {
- "version": "0.2.49",
- "notes": "1. 已取消/已关闭的订单不再显示「预计送达时间」灰条（未关闭订单显示不变）",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.49/app-resources-0.2.49.zip",
+ "version": "0.2.51",
+ "notes": "活动区新增「宝藏新品·新品试吃」：场次列表 + 🔔一键预约 + ⚡一键抢券(全部账号) + ⏰到点自动抢；邀请码分离(注册码/活动口令码)；活动区新增邀请记录、我的奖品、输入口令码；账号栏刷新核验按钮",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.51/app-resources-0.2.51.zip",
  "pub_date": "2026-11-25"
 }
