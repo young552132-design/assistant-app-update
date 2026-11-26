@@ -1,6 +1,6 @@
 {
- "version": "0.2.60",
- "notes": "删除分组先选目标分组，组内账号整体迁移；分组标题吸顶；去使用跨账号自动找券主人 + 主接口失败重试 + 空结果显示原因并可重试/去商城 + 商品卡券标签",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.60/app-resources-0.2.60.zip",
+ "version": "0.2.63",
+ "notes": "修复设置支付密码收不到验证码（补风控请求头 wmrequestid）；修复检查更新一直转圈（更新源并发探测8秒封顶、失败有提示并还原版本号）；券内搜索改走服务端（搜玉米32件/卤肉12件）；去使用界面去掉横向滑动、tab互斥高亮",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.63/app-resources-0.2.63.zip",
  "pub_date": "2026-11-26"
 }
