@@ -1,6 +1,6 @@
 {
- "version": "0.2.59",
- "notes": "账号栏右键菜单（修改备注 / 移动到分组 / 删除账号）；余额固定右侧对齐，备注太长到余额处换行；默认分组改为 已开通省钱卡 / 未开通省钱卡 / 毕业，登录核验后自动分组；去使用遇到筛选为空自动切回全部",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.59/app-resources-0.2.59.zip",
+ "version": "0.2.60",
+ "notes": "删除分组先选目标分组，组内账号整体迁移；分组标题吸顶；去使用跨账号自动找券主人 + 主接口失败重试 + 空结果显示原因并可重试/去商城 + 商品卡券标签",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.60/app-resources-0.2.60.zip",
  "pub_date": "2026-11-26"
 }
