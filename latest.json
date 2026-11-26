@@ -1,9 +1,9 @@
 {
- "version": "0.3.1",
- "notes": "0.3.1：Codex 评审修复5条——提交超时认单口径收紧 / 二次核价套回手动换券·省钱卡·配送时段 / 加购超时核查数量 / 跨盘更新兼容",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.1/app-resources-0.3.1.zip",
- "sha256": "9c3b2d7d437a489367fb9a650960745c40737df382eb58950190849679151c75",
- "size": 227295,
- "sig": "XJa9bhHxaixKtFphhLoxfpPJABN1LUGM2SZSOuTuIssLE95WqXEpuEfN1mW46ZalfoZSxhUtGuNAQ//KuutMBw==",
+ "version": "0.3.3",
+ "notes": "0.3.3：更新源迁移——客家影服务器优先，GitHub 兜底；含 0.3.2 复审修复",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.3/app-resources-0.3.3.zip",
+ "sha256": "3938045f4d718af295dcc687ebcd48c44f9de73bc2c1b10236a65dce1dd0dea4",
+ "size": 229443,
+ "sig": "Zxrg/7PYrLmXM/cLe+hE8FwkA9NSh2Dzyz9EhGMNuzsI+sw2tqIFN+Ciqv3GMpzw2bwiPtJdGtKgPjQYzDaMDg==",
  "pub_date": "2026-11-26"
 }
