@@ -1,6 +1,9 @@
 {
- "version": "0.2.65",
- "notes": "新增确认订单页「¥9.9 开通省钱卡」勾选（未开卡账号，勾上本单多付 9.9、金额服务端重算，购物车底部同步提示）；评审收口 5 处：登录响应剥离 ut / 指定账号找不到不再回退全量 / 撤掉发码失败自动补发 / 改密凭证改内存不落盘 / 绑卡不再降级明文卡密",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.65/app-resources-0.2.65.zip",
+ "version": "0.3.1",
+ "notes": "0.3.1：Codex 评审修复5条——提交超时认单口径收紧 / 二次核价套回手动换券·省钱卡·配送时段 / 加购超时核查数量 / 跨盘更新兼容",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.1/app-resources-0.3.1.zip",
+ "sha256": "9c3b2d7d437a489367fb9a650960745c40737df382eb58950190849679151c75",
+ "size": 227295,
+ "sig": "XJa9bhHxaixKtFphhLoxfpPJABN1LUGM2SZSOuTuIssLE95WqXEpuEfN1mW46ZalfoZSxhUtGuNAQ//KuutMBw==",
  "pub_date": "2026-11-26"
 }
