@@ -1,6 +1,6 @@
 {
- "version": "0.2.57",
- "notes": "「去使用」按 App 抓包的真实接口重写：列出这张券能买的商品（销量/价格排序、＋加购、底部去购物车），全场券引导去商城；账号栏新增搜索框（手机号/备注/关键词）；分组名可改（组头 ✏️ 或分组管理里重命名）；跨账号用券加进券所属账号的购物车",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.57/app-resources-0.2.57.zip",
+ "version": "0.2.58",
+ "notes": "「去使用」升级为官方同款整页：搜索凑单商品 + 券条 + 全国配/销量/价格三 tab + 价格区间（0-10/10-20/20-30/30-50/50-100/100以上）+ 商品卡（回购人数、价格/单位、全国配标签、＋加购）+ 底部去购物车 + 加载更多；分组名可改；账号栏可搜索",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.58/app-resources-0.2.58.zip",
  "pub_date": "2026-11-26"
 }
