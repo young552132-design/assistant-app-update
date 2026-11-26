@@ -1,6 +1,6 @@
 {
- "version": "0.2.54",
- "notes": "试吃券状态对齐：同批次重复记录已合并去重、新增「已领取」状态、050112 日限/050814 抢光中文提示、抢券自动跳过已领场次、多账号并发 6→10；含 0.2.53 的今日/明日场次自动发现与一键预约全约上",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.54/app-resources-0.2.54.zip",
+ "version": "0.2.55",
+ "notes": "账号管理：分组（新建/重命名/删除）+ 账号移动分组 + 重命名 + 删除；手机号第一行显示、点击复制；备注移到省钱卡时间下面、去掉重复的笔记；活动区按活动显示已领到的券（宝藏新品→哪个号领到什么券+去使用）；券「去使用」列可用商品可直接加入购物车；修复账号栏手机号重复显示",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.55/app-resources-0.2.55.zip",
  "pub_date": "2026-11-26"
 }
