@@ -1,9 +1,9 @@
 {
- "version": "0.3.3",
- "notes": "本次更新：更新速度与稳定性优化，下单流程更顺畅",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.3/app-resources-0.3.3.zip",
- "sha256": "3938045f4d718af295dcc687ebcd48c44f9de73bc2c1b10236a65dce1dd0dea4",
- "size": 229443,
- "sig": "Zxrg/7PYrLmXM/cLe+hE8FwkA9NSh2Dzyz9EhGMNuzsI+sw2tqIFN+Ciqv3GMpzw2bwiPtJdGtKgPjQYzDaMDg==",
+ "version": "0.3.4",
+ "notes": "本次更新：下单核对更严格、支付状态显示更准确、提示更简洁",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.4/app-resources-0.3.4.zip",
+ "sha256": "30af65ce35a874b15c0b8abc5482d61dbcf780c0ed1cf2892e58ad31b609508a",
+ "size": 230678,
+ "sig": "j0IouN/qbKC2PKT46t0rdYAadgh7yNUHEyNP6WmbI6Y5RBClOznDJ7+GMKc08rjimTGeJKAZ10lWCwvnp5aNDg==",
  "pub_date": "2026-11-26"
 }
