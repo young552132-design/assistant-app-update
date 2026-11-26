@@ -1,6 +1,6 @@
 {
- "version": "0.2.56",
- "notes": "账号管理：分组（新建/重命名/删除）+ 账号移动分组 + 重命名 + 删除；手机号第一行显示、点击复制；备注移到省钱卡时间下面、去掉重复的笔记；修复账号栏手机号重复显示；活动区按活动显示已领到的券（宝藏新品→哪个号领到什么券 + 去使用）；券「去使用」列可用商品可直接加入购物车（别人账号的券加进那个号的购物车，不切当前账号）",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.56/app-resources-0.2.56.zip",
+ "version": "0.2.57",
+ "notes": "「去使用」按 App 抓包的真实接口重写：列出这张券能买的商品（销量/价格排序、＋加购、底部去购物车），全场券引导去商城；账号栏新增搜索框（手机号/备注/关键词）；分组名可改（组头 ✏️ 或分组管理里重命名）；跨账号用券加进券所属账号的购物车",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.57/app-resources-0.2.57.zip",
  "pub_date": "2026-11-26"
 }
