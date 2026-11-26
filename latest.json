@@ -1,6 +1,6 @@
 {
- "version": "0.2.64",
- "notes": "修复支付密码发码（先 bind/check 再发码+自动重试，失败原因明确显示）；账号栏已设置支付密码的账号手机号后打绿色✓；分组整条组头可点折叠；券内搜索服务端化；界面去横向滑动",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.64/app-resources-0.2.64.zip",
+ "version": "0.2.65",
+ "notes": "新增确认订单页「¥9.9 开通省钱卡」勾选（未开卡账号，勾上本单多付 9.9、金额服务端重算，购物车底部同步提示）；评审收口 5 处：登录响应剥离 ut / 指定账号找不到不再回退全量 / 撤掉发码失败自动补发 / 改密凭证改内存不落盘 / 绑卡不再降级明文卡密",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.2.65/app-resources-0.2.65.zip",
  "pub_date": "2026-11-26"
 }
