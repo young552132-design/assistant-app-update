@@ -1,9 +1,9 @@
 {
- "version": "0.3.7",
- "notes": "发现新版本 v0.3.7，更新优化使用体验。",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.7/app-resources-0.3.7.zip",
- "sha256": "448717aa340a2cc1e291dc25d7590ce20e8e25b2c359fc6d15741e82713cfdff",
- "size": 245039,
- "sig": "oc3NO0qqDZFcTuXlN6cf6epjwO3dUpm2SXJNVkkylfB8ExlirfnPhg7sCfTY0uZ+y9/kH3KmZK09cs2VGIidBA==",
+ "version": "0.3.8",
+ "notes": "发现新版本 v0.3.8，更新优化使用体验。",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.8/app-resources-0.3.8.zip",
+ "sha256": "382630f37d6c4e0bf289ddc66a33c88e1350f4c474d702173722907ed731fd2f",
+ "size": 256620,
+ "sig": "JmROVI5G6PDIu901EBZCz0XNed7byXuiFh3wDndv08eLHLvwqfHPrye7LL0PAm8HZhi8B5pk5K7bwIkegCb6BQ==",
  "pub_date": "2026-11-27"
 }
