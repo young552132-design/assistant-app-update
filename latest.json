@@ -1,9 +1,9 @@
 {
- "version": "0.3.6",
- "notes": "新增小程序抽奖，每个账号可单独参与抽奖；账号列表显示支付密码设置状态",
- "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.6/app-resources-0.3.6.zip",
- "sha256": "83242cf7884ba9f3366bbc0c409ff73e4bbdac30251a130b76e485e6adfcfe01",
- "size": 237428,
- "sig": "LvAY6fW/b85c+qrAOP2fFVEc35+MV7UTPHdb3pwR84jW3IkfxY+FGr1UDjTwCr3uPoqfJSiM5OhbFncgBIUqDQ==",
+ "version": "0.3.7",
+ "notes": "发现新版本 v0.3.7，更新优化使用体验。",
+ "url": "https://github.com/young552132-design/assistant-app-update/releases/download/v0.3.7/app-resources-0.3.7.zip",
+ "sha256": "448717aa340a2cc1e291dc25d7590ce20e8e25b2c359fc6d15741e82713cfdff",
+ "size": 245039,
+ "sig": "oc3NO0qqDZFcTuXlN6cf6epjwO3dUpm2SXJNVkkylfB8ExlirfnPhg7sCfTY0uZ+y9/kH3KmZK09cs2VGIidBA==",
  "pub_date": "2026-11-27"
 }
